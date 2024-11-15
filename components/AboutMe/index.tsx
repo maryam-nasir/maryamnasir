@@ -61,7 +61,7 @@ const AboutMe = () => {
                 <TypingEffect text={subHeading} delay={subHeadingDelay} />
               </Heading>
 
-              <Paragraph className="sm:!text-base !text-grey-dark my-12 max-md:text-center text-justify">
+              <Paragraph className="sm:!text-base !text-grey-dark my-12 text-justify">
                 <TypingEffect
                   text={paragraph}
                   delay={paragraphDelay}
