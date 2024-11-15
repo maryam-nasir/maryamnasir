@@ -103,7 +103,7 @@ const AboutMe = () => {
 
           {/* Right Section */}
           <div className="md:w-2/5 px-8 sm:px-20 md:px-0">
-            <div className="relative flex items-center justify-center">
+            <div className="relative flex items-center justify-center min-h-[230px] min-w-[230px]">
               <Image
                 src={"/images/girl.png"}
                 alt="Female Software Engineer"
