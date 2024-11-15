@@ -110,6 +110,7 @@ const AboutMe = () => {
                 className="z-10"
                 width={230}
                 height={230}
+                priority
               />
               <div className="absolute w-72 h-64 rounded-tl-[60%] rounded-tr-[45%] rounded-br-[55%] rounded-bl-[45%] primary-bg-gradient animate-hero-image"></div>
             </div>
